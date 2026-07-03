@@ -28,7 +28,7 @@ if you want to see more of my work, **[my portfolio](https://drive.google.com/dr
 ### some fun facts (´꒳`):
 
 - i play volleyball
-- state of mind = spongebob levitating w earphones in
+- my state of mind 24/7 = spongebob levitating w earphones in
 - earl grey tea is my go-to drink
 
 ---
