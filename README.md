@@ -23,7 +23,7 @@ my main tech stack is python (pandas, numpy, scipy, matplotlib) and matlab (simu
 
 i've got a few pinned projects, but check out **[Project Name](#add the url here later)** for my favorite one so far.
 
-if you want to see more of my work, **[my portfolio](#add the url here later)** is here!
+if you want to see more of my work, **[my portfolio](https://drive.google.com/drive/folders/1dhMopwu67Ot1GOUqPCF9jbTIJrqcFkXc?usp=drive_link)** is here!
 
 ### fun facts (´꒳`):
 
