@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## hey there (ദ്ദി˙ᗜ˙) 
 
-it's **christine**,,, i'm a mechatronics student who wishes to optimise her free will.
+i'm **christine**, a mechatronics student who wishes to optimise her free will.
 
 i'm into python and matlab and i love building small projects to learn something new.
 
