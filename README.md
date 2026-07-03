@@ -21,7 +21,7 @@ i'm into python and matlab and i love building small projects to learn something
 
 my main tech stack is python (pandas, numpy, scipy, matplotlib) and matlab (simulink). my favorite tools are jupyter, vs code, and git.
 
-i've got a few pinned projects, but check out **[Project Name](#add the url here later)** for my favorite one so far.
+i've got a few pinned projects, but check out __ <!-- **[Project Name](#add the url here later)** --> for my favorite one so far.
 
 if you want to see more of my work, **[my portfolio](https://drive.google.com/drive/folders/1dhMopwu67Ot1GOUqPCF9jbTIJrqcFkXc?usp=drive_link)** is here!
 
