@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 i'm **christine**, a mechatronics student who wishes to optimise her free will.
 
-i love building small projects to learn something new.
+i love building small projects and seeing where that leads me.
 
 my main tech stack is python (pandas, numpy, scipy, matplotlib) and matlab (simulink). my favorite tools are jupyter, vs code, and git.
 
