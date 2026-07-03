@@ -25,7 +25,7 @@ i've got a few pinned projects, but check out __ <!-- **[Project Name](#add the 
 
 if you want to see more of my work, **[my portfolio](https://drive.google.com/drive/folders/1dhMopwu67Ot1GOUqPCF9jbTIJrqcFkXc?usp=drive_link)** is here!
 
-### fun facts (´꒳`):
+### some fun facts (´꒳`):
 
 - i play volleyball
 - state of mind = spongebob levitating w earphones in
